@@ -1,13 +1,9 @@
-<h1 align="center">
-Hi 👋, I'm Mohammed Faizan
-</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Faizan</h1>
 
-<h3 align="center">
-AWS Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD | Monitoring
-</h3>
+<h3 align="center">☁️ AWS Cloud | ⚙️ DevOps | ☸️ Kubernetes | 🚀 Terraform | 📊 Monitoring</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer;DevOps+Engineer;Kubernetes+Enthusiast;Terraform+%7C+Docker+%7C+Jenkins;Monitoring+with+Prometheus+Grafana" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AWS+Cloud+Engineer;DevOps+Engineer;Kubernetes+Enthusiast;Terraform+%7C+Docker+%7C+Jenkins;Prometheus+Grafana+Monitoring;Always+Learning+New+Tech" />
 </p>
 
 ---
@@ -16,17 +12,17 @@ AWS Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD | Monitoring
 
 - 🎓 B.Tech Graduate  
 - ☁️ Aspiring AWS Cloud & DevOps Engineer  
-- 🔧 Working with Kubernetes, Terraform, Docker, Jenkins, ArgoCD  
-- 📊 Monitoring using Prometheus, Grafana, Loki  
-- 🐧 Linux & Git user  
+- ⚙️ Hands-on with Kubernetes, Terraform, Docker, Jenkins, ArgoCD  
+- 📊 Monitoring → Prometheus, Grafana, Loki  
+- 🐧 Linux | Git | Bash  
 - 🎯 Goal → DevOps Engineer / Cloud Engineer  
 
 ---
 
-## 🛠️ DevOps Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,bash,grafana,prometheus,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,bash,grafana,prometheus,vscode,github" />
 </p>
 
 ---
@@ -46,24 +42,17 @@ AWS Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD | Monitoring
 
 ## 📂 DevOps Projects
 
-### 🔹 Kubernetes DevOps Project using ArgoCD
-- GitOps deployment
-- Kubernetes cluster
-- ArgoCD CI/CD
+### ☸️ Kubernetes DevOps Project using ArgoCD
+GitOps deployment • Kubernetes • ArgoCD
 
-### 🔹 Monitoring in Kubernetes using Prometheus & Grafana
-- Prometheus metrics
-- Grafana dashboard
-- Loki logs
+### 📊 Monitoring in Kubernetes using Prometheus & Grafana
+Prometheus • Grafana • Loki
 
-### 🔹 Terraform AWS Project
-- AWS infra using Terraform
-- EC2 + VPC + Security Groups
+### ☁️ Terraform AWS Infrastructure
+EC2 • VPC • Security Groups • IaC
 
-### 🔹 Jenkins CI/CD Project
-- Docker build
-- Jenkins pipeline
-- Auto deployment
+### ⚙️ Jenkins CI/CD Pipeline
+Docker • Jenkins • Auto Deploy
 
 ---
 
@@ -71,9 +60,9 @@ AWS Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD | Monitoring
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizan-ab&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-ab&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ab&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ab&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -82,7 +71,7 @@ AWS Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD | Monitoring
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=faizan-ab&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=faizan-ab&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -90,7 +79,15 @@ AWS Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD | Monitoring
 ## 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=faizan-ab&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=faizan-ab&label=Profile%20views&color=blue&style=flat" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/faizan-ab/faizan-ab/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -98,9 +95,9 @@ AWS Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD | Monitoring
 ## 📫 Connect With Me
 
 - GitHub → https://github.com/faizan-ab  
-- LinkedIn → add-link  
-- Email → add-email  
+- LinkedIn → https://www.linkedin.com/in/mohammed-abdul-faizan-3b0070263
+- Email → mohdfaizan7988@gmail.com
 
 ---
 
-⭐ Learning DevOps | Cloud | Kubernetes every day
+⭐ DevOps | Cloud | Kubernetes | Always Learning
