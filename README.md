@@ -70,9 +70,9 @@ Docker • Jenkins • Auto Deploy
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizan-ab&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-ab&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ab&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ab&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -81,7 +81,9 @@ Docker • Jenkins • Auto Deploy
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=faizan-ab&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=faizan-ab&theme=darkhub&no-frame=true&margin-w=5"/>
+
 </p>
 
 ---
@@ -96,7 +98,6 @@ Docker • Jenkins • Auto Deploy
 
 ## 📫 Connect
 
-GitHub → https://github.com/faizan-ab
 LinkedIn → https://www.linkedin.com/in/mohammed-abdul-faizan-3b0070263
 Email → mohdfaizan7988@gmail.com
 
