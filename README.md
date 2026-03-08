@@ -48,7 +48,7 @@ AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Monitoring
 
 ## 📂 Projects
 
-### ☸️ [Kubernetes DevOps Project using ArgoCD](https://github.com/faizan-ab/kubernetes-devops-argocd)
+### ☸️ [Kubernetes DevOps Project using ArgoCD](https://github.com/faizan-ab/voting-app)
 
 GitOps deployment • Kubernetes • ArgoCD
 
@@ -60,9 +60,10 @@ Prometheus • Grafana • Loki
 
 EC2 • VPC • Security Groups • IaC
 
-### ⚙️ [Jenkins CI/CD Pipeline](https://github.com/faizan-ab)
+### ⚙️ [Jenkins CI/CD Pipeline](https://github.com/faizan-ab/jenkins-cicd)
 
 Docker • Jenkins • Auto Deploy
+
 ---
 
 ## 📊 GitHub Stats
