@@ -48,29 +48,39 @@ AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Monitoring
 
 ## 📂 Projects
 
-- Kubernetes DevOps Project using ArgoCD
-- Monitoring using Prometheus & Grafana
-- Terraform AWS Infrastructure
-- Jenkins CI/CD Pipeline
+### ☸️ [Kubernetes DevOps Project using ArgoCD](https://github.com/faizan-ab/kubernetes-devops-argocd)
 
+GitOps deployment • Kubernetes • ArgoCD
+
+### 📊 [Monitoring in Kubernetes using Prometheus & Grafana](https://github.com/faizan-ab/Monitoring-in-K8s-using-Prometheus-and-Grafana)
+
+Prometheus • Grafana • Loki
+
+### ☁️ [Terraform AWS Infrastructure](https://github.com/faizan-ab/terraform-k8s-jenkins-project)
+
+EC2 • VPC • Security Groups • IaC
+
+### ⚙️ [Jenkins CI/CD Pipeline](https://github.com/faizan-ab)
+
+Docker • Jenkins • Auto Deploy
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizan-ab&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-ab&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ab&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ab&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=faizan-ab&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=faizan-ab&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -83,18 +93,10 @@ AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Monitoring
 
 ---
 
-## 🐍 Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/faizan-ab/faizan-ab/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Connect
 
 GitHub → https://github.com/faizan-ab
-LinkedIn → add-link
-Email → add-email
+LinkedIn → https://www.linkedin.com/in/mohammed-abdul-faizan-3b0070263
+Email → mohdfaizan7988@gmail.com
 
 ⭐ DevOps | Cloud | Kubernetes | Always Learning
