@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284126-3e0f0d63-7b0d-4b0e-9c3c-6f6bb77eb8f5.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammed Faizan</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Abdul Faizan</h1>
 
 <h3 align="center">
 AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Monitoring
@@ -16,7 +16,7 @@ AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Monitoring
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Graduate  
+- 🎓 B.Tech Computer Science Graduate  
 - ☁️ Aspiring AWS Cloud & DevOps Engineer  
 - ⚙️ Kubernetes | Terraform | Docker | Jenkins | ArgoCD  
 - 📊 Prometheus | Grafana | Loki  
@@ -73,16 +73,6 @@ Docker • Jenkins • Auto Deploy
 <img src="https://github-readme-stats.vercel.app/api?username=faizan-ab&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ab&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=faizan-ab&theme=darkhub&no-frame=true&margin-w=5"/>
 
 </p>
 
