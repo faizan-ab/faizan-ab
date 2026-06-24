@@ -56,8 +56,10 @@ AWS Bedrock Agent • Lambda • Python • Prometheus • CloudWatch • EKS �
  Terraform • AWS EKS • ECR • GitHub Actions • Argo CD • Docker • Prometheus • Grafana
 
 ### 📊 [Monitoring in Kubernetes using Prometheus & Grafana](https://github.com/faizan-ab/Monitoring-in-K8s-using-Prometheus-and-Grafana)
-
 Prometheus • Grafana • Loki
+
+### 📊 [End-to-End Netflix DevSecOps CI/CD Pipeline on AWS](https://github.com/faizan-ab/Deploy-Netflix-Clone-on-Kubernetes)
+CI/CD	Jenkins • SonarQube • Trivy • Docker • Prometeus • Grafana
 
 ---
 
