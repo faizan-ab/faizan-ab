@@ -48,21 +48,16 @@ AWS Cloud | DevOps | Kubernetes | Terraform | CI/CD | Monitoring
 
 ## 📂 Projects
 
-### ☸️ [Kubernetes DevOps Project using ArgoCD](https://github.com/faizan-ab/voting-app)
+### ☸️ [ECOM Microservices AI Capabilities(AIOps)](https://github.com/faizan-ab/ecom-microservices-AIOps/blob/main/projects/README.md)
 
-GitOps deployment • Kubernetes • ArgoCD
+AWS Bedrock Agent • Lambda • Python • Prometheus • CloudWatch • EKS • Streamlit • ArgoCD
+
+### ☸️ [Cloud-Native E-Commerce Platform with GitOps & CI/CD](https://github.com/faizan-ab/ecom-microservices-AIOps/blob/main/projects/aiops-assistant/README.md)
+ Terraform • AWS EKS • ECR • GitHub Actions • Argo CD • Docker • Prometheus • Grafana
 
 ### 📊 [Monitoring in Kubernetes using Prometheus & Grafana](https://github.com/faizan-ab/Monitoring-in-K8s-using-Prometheus-and-Grafana)
 
 Prometheus • Grafana • Loki
-
-### ☁️ [Terraform AWS Infrastructure](https://github.com/faizan-ab/terraform-k8s-jenkins-project)
-
-EC2 • VPC • Security Groups • IaC
-
-### ⚙️ [Jenkins CI/CD Pipeline](https://github.com/faizan-ab/jenkins-cicd)
-
-Docker • Jenkins • Auto Deploy
 
 ---
 
