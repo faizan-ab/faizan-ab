@@ -1,0 +1,9 @@
+# In End-to-End-CI-CD-Pipeline-on-EKS
+src/* linguist-vendored
+*.java linguist-vendored
+
+# In Kube-GitOps-deploy-using-ArgoCD
+vote/* linguist-vendored
+worker/* linguist-vendored
+result/* linguist-vendored
+seed-data/* linguist-vendored
