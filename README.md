@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Faizan%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20AI%2FLLM%20Infrastructure%20Engineer&descAlignY=58&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammed%20Abdul%20Faizan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20AI%2FLLM%20Infrastructure%20Engineer&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+AWS+%7C+OCI+Certified;Cloud+%26+Kubernetes+Infrastructure+Specialist;Building+Agentic+AI+%2F+AIOps+Systems;Site+Reliability+%26+GitOps+Practitioner" alt="Typing SVG" />
 
@@ -54,10 +54,6 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 
 <div align="center">
 
-**Languages**
-
-![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![Bash](https://skillicons.dev/icons?i=bash) ![JS](https://skillicons.dev/icons?i=js) ![YAML](https://img.shields.io/badge/YAML-6D28D9?style=flat-square&logo=yaml&logoColor=white)
-
 **Cloud**
 
 ![AWS](https://skillicons.dev/icons?i=aws) ![OCI](https://img.shields.io/badge/OCI-4C1D95?style=flat-square&logo=oracle&logoColor=white) ![Terraform](https://skillicons.dev/icons?i=terraform)
@@ -69,6 +65,11 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 **Observability & Security**
 
 ![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch) ![Kafka](https://img.shields.io/badge/Kafka-8B5CF6?style=flat-square&logo=apachekafka&logoColor=white) ![Redis](https://skillicons.dev/icons?i=redis) ![Trivy](https://img.shields.io/badge/Trivy-6D28D9?style=flat-square&logo=aquasecurity&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP%20ZAP-4C1D95?style=flat-square&logo=owasp&logoColor=white)
+
+
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=python) ![Bash](https://skillicons.dev/icons?i=bash) ![YAML](https://img.shields.io/badge/YAML-6D28D9?style=flat-square&logo=yaml&logoColor=white)
 
 </div>
 
@@ -93,7 +94,7 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 ## <div align="center">🚀 Featured Projects</div>
 
 <details>
-<summary><b>🧠 Boutique — E-Commerce Microservices Platform with Kira AIOps Agent</b></summary>
+<summary><b>🧠 Boutique — E-Commerce Microservices Platform with Kira AIOps Agent (click for details)</b></summary>
 <br/>
 
 A 7-service e-commerce platform deployed on **AWS EKS** with a full GitOps delivery pipeline, observability stack, and **Kira** — an AWS Bedrock-powered SRE agent that diagnoses production incidents using live logs, metrics, and cluster health data.
@@ -112,7 +113,7 @@ This is the flagship project of the portfolio: a Terraform-provisioned EKS platf
 </details>
 
 <details>
-<summary><b>☸️ Kubernetes GitOps &amp; Observability Platform (ArgoCD + Prometheus/Grafana)</b></summary>
+<summary><b>☸️ Kubernetes GitOps &amp; Observability Platform - ArgoCD + Prometheus/Grafana (click for details)</b></summary>
 <br/>
 
 A GitOps-deployed microservices voting application on Kubernetes, paired with a full Prometheus/Grafana observability layer for cluster and workload monitoring.
@@ -131,7 +132,7 @@ Two companion repositories forming a single workflow: ArgoCD continuously delive
 </details>
 
 <details>
-<summary><b>🏦 DevSecOps Banking Application — 8-Gate Secure GitOps Pipeline</b></summary>
+<summary><b>**🏦 DevSecOps Banking Application — 8-Gate Secure GitOps Pipeline** (click for details)</b></summary>
 <br/>
 
 A cloud-native financial platform built with **Spring Boot 3 / Java 21**, deployed on Kubernetes (Kind) through a fully automated GitOps pipeline enforcing 8 sequential security gates before any code reaches production.
@@ -150,7 +151,7 @@ Models a regulated fintech delivery pipeline end-to-end — from Gitleaks secret
 </details>
 
 <details>
-<summary><b>⚙️ End-to-End DevSecOps CI/CD Pipeline on AWS EKS</b></summary>
+<summary><b>⚙️ End-to-End DevSecOps CI/CD Pipeline on AWS EKS (click for details)</b></summary>
 <br/>
 
 A production-style DevSecOps pipeline for a MERN stack application, taking code from commit to a monitored EKS deployment with quality and security gates at every stage.
