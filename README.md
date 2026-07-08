@@ -57,6 +57,14 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 
 ## 🛠️ Tech Stack
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
+</p>
+
 **Cloud**
 
 ![AWS](https://skillicons.dev/icons?i=aws) ![OCI](https://img.shields.io/badge/OCI-4C1D95?style=flat-square&logo=oracle&logoColor=white) ![Terraform](https://skillicons.dev/icons?i=terraform)
