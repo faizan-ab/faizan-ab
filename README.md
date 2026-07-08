@@ -64,7 +64,6 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
   <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48" alt="Oracle Cloud Infrastructure"/>
 </p>
 
----
 
 ### ⚙️ DevOps & Platform
 
@@ -79,7 +78,6 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
   <img src="https://go-skill-icons.vercel.app/api/icons?i=istio" height="48"/>
 </p>
 
----
 
 ### 📊 Observability & Security
 
@@ -93,7 +91,6 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
   <img src="https://go-skill-icons.vercel.app/api/icons?i=owasp" height="48"/>
 </p>
 
----
 
 ### 💻 Languages
 
