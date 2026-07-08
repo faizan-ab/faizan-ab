@@ -12,32 +12,41 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-ab.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-ab)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.ab@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1e1b2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizan-ab)
+<p>
+  <a href="https://faizan-ab.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-abdul-faizan-3b0070263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mohdfaizan7988@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/faizan-ab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=faizan-ab&label=Profile%20Views&color=6D28D9&style=flat-square)
-![Followers](https://img.shields.io/github/followers/faizan-ab?label=Followers&style=flat-square&color=7C3AED)
-![Stars](https://img.shields.io/github/stars/faizan-ab?label=Stars&style=flat-square&color=A855F7)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Faizann&label=Profile%20Views&color=6D28D9&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Mohammed-Faizann?label=Followers&style=flat-square&color=7C3AED)
+![Stars](https://img.shields.io/github/stars/Mohammed-Faizann?label=Stars&style=flat-square&color=A855F7)
 
 </div>
 
 ---
 
-## <div align="center">🔮 About Me</div>
-
-<div align="center">
+## 🔮 About Me</div>
 
 ```yaml
 role: "DevOps & Cloud Engineer"
 focus: ["AWS", "Kubernetes", "GitOps", "Observability", "Agentic AI Infrastructure"]
 philosophy: "Infrastructure as a product, reliability as a feature, automation as default"
 ```
-
-</div>
 
 I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNTUH College of Engineering, Hyderabad**, engineering my career at the intersection of **DevOps, Cloud Infrastructure, and Agentic AI Systems**. My work centers on designing production-grade, self-healing infrastructure — from zero-downtime CI/CD pipelines to AIOps assistants that reason over live observability data.
 
@@ -50,9 +59,7 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 
 ---
 
-## <div align="center">🛠️ Tech Stack</div>
-
-<div align="center">
+## 🛠️ Tech Stack
 
 **Cloud**
 
@@ -71,13 +78,9 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 
 ![Python](https://skillicons.dev/icons?i=python) ![Bash](https://skillicons.dev/icons?i=bash) ![YAML](https://img.shields.io/badge/YAML-6D28D9?style=flat-square&logo=yaml&logoColor=white)
 
-</div>
-
 ---
 
-## <div align="center">🤖 AI / ML & Agentic Systems Expertise</div>
-
-<div align="center">
+## 🤖 AI / ML & Agentic Systems Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -87,11 +90,9 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 | **MCP Integrations** | ⭐⭐⭐☆☆ | GitHub governance MCP server for push-approval workflows |
 | **Prompt & Tool Schema Design** | ⭐⭐⭐⭐☆ | Structured OpenAPI schemas for reliable agent tool invocation |
 
-</div>
-
 ---
 
-## <div align="center">🚀 Featured Projects</div>
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🧠 Boutique — E-Commerce Microservices Platform with Kira AIOps Agent (click for details)</b></summary>
@@ -132,7 +133,7 @@ Two companion repositories forming a single workflow: ArgoCD continuously delive
 </details>
 
 <details>
-<summary><b>**🏦 DevSecOps Banking Application — 8-Gate Secure GitOps Pipeline** (click for details)</b></summary>
+<summary><b>🏦 DevSecOps Banking Application — 8-Gate Secure GitOps Pipeline (click for details)</b></summary>
 <br/>
 
 A cloud-native financial platform built with **Spring Boot 3 / Java 21**, deployed on Kubernetes (Kind) through a fully automated GitOps pipeline enforcing 8 sequential security gates before any code reaches production.
@@ -171,7 +172,7 @@ Covers the full lifecycle — Code Commit → Build → Quality Check → Securi
 
 ---
 
-## <div align="center">💼 Experience</div>
+## 💼 Experience
 
 ### DevOps & Cloud Intern · Infoz IT Solutions
 `Internship`
@@ -197,9 +198,7 @@ Independently designed and delivered two enterprise-grade infrastructure archite
 
 ---
 
-## <div align="center">🏆 Achievements</div>
-
-<div align="center">
+## 🏆 Achievements
 
 | Recognition | Details |
 |---|---|
@@ -207,13 +206,9 @@ Independently designed and delivered two enterprise-grade infrastructure archite
 | **OCI Multi-Track Certified** | Certified across DevOps, Networking, and Developer tracks |
 | **Open Source Portfolio** | Production-grade EKS + AIOps reference architecture on GitHub |
 
-</div>
-
 ---
 
-## <div align="center">📜 Certifications</div>
-
-<div align="center">
+## 📜 Certifications
 
 **AWS**
 
@@ -225,54 +220,36 @@ Independently designed and delivered two enterprise-grade infrastructure archite
 ![OCI Networking](https://img.shields.io/badge/OCI-Networking-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![OCI Developer](https://img.shields.io/badge/OCI-Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-</div>
-
 ---
 
-## <div align="center">📊 GitHub Analytics</div>
+## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=faizan-ab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=faizan ab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9" />
 <img height="165" src="https://streak-stats.demolab.com?user=faizan-ab&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" />
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
 
-</div>
-
 ---
 
-## <div align="center">🏅 GitHub Trophies</div>
-
-<div align="center">
+## 🏅 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=faizan-ab&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&bg-color=0D1117&title-color=A855F7&icon-color=8B5CF6" />
 
-</div>
-
 ---
 
-## <div align="center">📈 Contribution Activity</div>
-
-<div align="center">
+## 📈 Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-ab&theme=react-dark&bg_color=0D1117&color=A855F7&line=8B5CF6&point=ffffff&hide_border=true" />
 
-</div>
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
 ---
 
-## <div align="center">🐍 Contribution Snake</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/faizan-ab/faizan-ab/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
-</div>
-
----
-
-## <div align="center">🎯 Current Focus</div>
+## 🎯 Current Focus
 
 ```yaml
 learning:
@@ -298,16 +275,12 @@ open_to:
 
 ---
 
-## <div align="center">🤝 Connect</div>
-
-<div align="center">
+## 🤝 Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdfaizan7988@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abdul-faizan-3b0070263/)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizan-ab)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-ab.github.io)
-
-</div>
 
 ---
 
