@@ -57,15 +57,15 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### ☁️ Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,terraform" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48" alt="Oracle Cloud Infrastructure"/>
 </p>
+
 ---
+
 ### ⚙️ DevOps & Platform
 
 <p align="left">
@@ -78,7 +78,9 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
   <img src="https://go-skill-icons.vercel.app/api/icons?i=helm" height="48"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=istio" height="48"/>
 </p>
+
 ---
+
 ### 📊 Observability & Security
 
 <p align="left">
@@ -99,23 +101,6 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
   <img src="https://skillicons.dev/icons?i=python,bash" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=yaml" height="48"/>
 </p>
-
-**Cloud**
-
-![AWS](https://skillicons.dev/icons?i=aws) ![OCI](https://img.shields.io/badge/OCI-4C1D95?style=flat-square&logo=oracle&logoColor=white) ![Terraform](https://skillicons.dev/icons?i=terraform)
-
-**DevOps & Tooling**
-
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Docker](https://skillicons.dev/icons?i=docker) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Prometheus](https://img.shields.io/badge/Prometheus-A855F7?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://skillicons.dev/icons?i=grafana) ![ArgoCD](https://img.shields.io/badge/ArgoCD-7C3AED?style=flat-square&logo=argo&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-6D28D9?style=flat-square&logo=helm&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-4C1D95?style=flat-square&logo=istio&logoColor=white)
-
-**Observability & Security**
-
-![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch) ![Kafka](https://img.shields.io/badge/Kafka-8B5CF6?style=flat-square&logo=apachekafka&logoColor=white) ![Redis](https://skillicons.dev/icons?i=redis) ![Trivy](https://img.shields.io/badge/Trivy-6D28D9?style=flat-square&logo=aquasecurity&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP%20ZAP-4C1D95?style=flat-square&logo=owasp&logoColor=white)
-
-
-**Languages**
-
-![Python](https://skillicons.dev/icons?i=python) ![Bash](https://skillicons.dev/icons?i=bash) ![YAML](https://img.shields.io/badge/YAML-6D28D9?style=flat-square&logo=yaml&logoColor=white)
 
 ---
 
