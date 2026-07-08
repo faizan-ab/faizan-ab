@@ -32,10 +32,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Faizann&label=Profile%20Views&color=6D28D9&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Mohammed-Faizann?label=Followers&style=flat-square&color=7C3AED)
-![Stars](https://img.shields.io/github/stars/Mohammed-Faizann?label=Stars&style=flat-square&color=A855F7)
-
 </div>
 
 ---
