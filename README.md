@@ -57,12 +57,69 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
+
+### ⚙️ DevOps
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,githubactions,grafana" />
+
+### 📊 Observability
+<img src="https://skillicons.dev/icons?i=elasticsearch,redis" />
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,bash" />
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,jenkins,githubactions,grafana,redis,elasticsearch,python,bash" />
+</p>
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48" alt="Oracle Cloud Infrastructure"/>
+</p>
+
+---
+
+### ⚙️ DevOps & Platform
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,githubactions,grafana" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=helm" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=istio" height="48"/>
+</p>
+
+---
+
+### 📊 Observability & Security
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=elasticsearch,redis" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=trivy" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=owasp" height="48"/>
+</p>
+
+---
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=yaml" height="48"/>
 </p>
 
 **Cloud**
