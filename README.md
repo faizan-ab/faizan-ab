@@ -60,32 +60,12 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud
-<img src="https://skillicons.dev/icons?i=aws,terraform" />
-
-### ⚙️ DevOps
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,githubactions,grafana" />
-
-### 📊 Observability
-<img src="https://skillicons.dev/icons?i=elasticsearch,redis" />
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,bash" />
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,jenkins,githubactions,grafana,redis,elasticsearch,python,bash" />
-</p>
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,terraform" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48" alt="Oracle Cloud Infrastructure"/>
 </p>
-
 ---
-
 ### ⚙️ DevOps & Platform
 
 <p align="left">
@@ -98,9 +78,7 @@ I'm a recent **Computer Science Engineering graduate (B.Tech, 2025)** from **JNT
   <img src="https://go-skill-icons.vercel.app/api/icons?i=helm" height="48"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=istio" height="48"/>
 </p>
-
 ---
-
 ### 📊 Observability & Security
 
 <p align="left">
