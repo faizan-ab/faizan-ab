@@ -230,9 +230,6 @@ Independently designed and delivered two enterprise-grade infrastructure archite
 
 ## 📜 Certifications
 
-**AWS**
-
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 **Oracle Cloud Infrastructure**
 
