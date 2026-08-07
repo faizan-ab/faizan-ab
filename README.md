@@ -223,7 +223,6 @@ Independently designed and delivered two enterprise-grade infrastructure archite
 
 | Recognition | Details |
 |---|---|
-| **AWS Certified** | Multiple certifications across cloud fundamentals and DevOps tracks |
 | **OCI Multi-Track Certified** | Certified across DevOps, Networking, and Developer tracks |
 | **Open Source Portfolio** | Production-grade EKS + AIOps reference architecture on GitHub |
 
